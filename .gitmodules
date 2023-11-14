@@ -1,0 +1,3 @@
+[submodule "LEAN"]
+	path = LEAN
+	url = https://github.com/LinMulikas/LEAN
